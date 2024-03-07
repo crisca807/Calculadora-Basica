@@ -12,6 +12,7 @@ namespace BLLClassLibrary1
     /// <summary>
     /// exponer metodos para una calculadora basica  que realice operaciones aritmeticas 
     /// <autor> Daniel Olarte-Jorge Urmendez </autor>
+    /// <autor> cristian camilo barrera avila </autor>
     /// <fechaCreacion> 29/01/24 </fechaCreacion>
     /// </summary>
     public static class OperacionesMatematicas
